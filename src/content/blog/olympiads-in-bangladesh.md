@@ -1,4 +1,4 @@
----
+
 title: A complete list of National Level Olympiads in Bangladesh
 author: Sanjib Kumar Sen
 featured: false
@@ -25,7 +25,7 @@ Note that out of these 22 Olympiads 2 of them (Bangla & ICT) don't have any inte
 | Bangladesh Robot Olympiad (BdRO)           | 2          | Age 7-18          | Segments: 5      | Around July                                                |
 | Bangladesh Math Olympiad (BdMO)            | 4          | Grade 3-12        | Around January   | [www.matholympiad.org.bd](https://www.matholympiad.org.bd) |
 | IQ Olympiad                                | 12         | Grade 1-12        | Around July      | Event Link: <https://fb.me/e/2naEJVwzy>                    |
-| Bangladesh Economics Olympiad (BdEO)       | None       | Grade 8-12        | Around March     |                                                            |
+| Bangladesh Economics Olympiad (BdEO)       | None       | Grade 8-12        | Around March     | [BDEO Website](https://sites.google.com/view/bdeo/home)    |
 | Blockchain Olympiad (BdBCO)                | 4          | Grade 8-Graduates | Around May       | [www.bcolbd.org](http://www.bcolbd.org)                    |
 | Bangladesh Informatics Olympiad (BdIO)     | None       | Grade 8-12        | Around December  | [olympiad.org.bd](https://www.olympiad.org.bd)             |
 | ICT Olympiad (ICTOBd)                      | TBA        | TBA               | TBA              | TBA                                                        |
