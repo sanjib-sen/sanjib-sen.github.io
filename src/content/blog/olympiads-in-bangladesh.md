@@ -29,5 +29,5 @@ Note that out of these 22 Olympiads 2 of them (Bangla & ICT) don't have any inte
 | Blockchain Olympiad (BdBCO)                | 4          | Grade 8-Graduates | Around May       | [www.bcolbd.org](http://www.bcolbd.org)                    |
 | Bangladesh Informatics Olympiad (BdIO)     | None       | Grade 8-12        | Around December  | [olympiad.org.bd](https://www.olympiad.org.bd)             |
 | ICT Olympiad (ICTOBd)                      | TBA        | TBA               | TBA              | TBA                                                        |
-| National AI Olympiad                       | 2          | Grade 3-12        | Around June      |                                                            |
+| National AI Olympiad                       | 2          | Grade 3-12        | Around June      | [www.bdaio.org](https://bdaio.org/)                        |
 | Coding Olympiad                            | 6          | Age 4 to 23       | Around September | Event Link: <https://fb.me/e/1NzuC41rH>                    |
